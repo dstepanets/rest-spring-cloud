@@ -2,26 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="643c61fd-0005-4f5c-a4e3-3908a3b03570" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-cloud-asgn2/.uuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-cloud-asgn2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-cloud-asgn2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-cloud-asgn2/src/main/java/org/magnum/mobilecloud/video/VideoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-cloud-asgn2/src/main/java/org/magnum/mobilecloud/video/repository/VideoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-cloud-asgn2/src/main/resources/private/keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile-cloud-asgn2/submission-packages/05_25_2020__09_08_04.pkg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/1/012a81df8cd42fbc48f5380fb085b0a57a125ff9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/0712df971a99ac4d2fccb8e0fb19f377f3374cca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d77c44234a8ecb3c6470cedccc0aea395682ecf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20453af936831f2135c79c1e9cd042a4fafa7714" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/21ea0676661580d0f67038c7baab9dd2dfd781fa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/309c9c00b7d4c3c3f356399b988b69e381eb79ad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4aa0d333eba296b557a3c610b2d25cdef901721f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5cbea08204b78baa4266e99f70c79df8693c774d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/704746ab603eef2675f21723ebc8033d0a9424a3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82bb5bd604f7ff17dc32c88c8e3d11e9e4b2d990" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f29856294a9e0e2beaaacb9caf399ef76cec96ea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +21,37 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mobile-cloud-asgn1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mobile-cloud-asgn1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mobile-cloud-asgn1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -53,7 +73,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager" selected="Spring Boot.Application">
+  <component name="RunManager" selected="Gradle.AutoGradingTest">
     <configuration name="AutoGradingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -156,7 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590088476365</updated>
-      <workItem from="1590088478143" duration="68000" />
+      <workItem from="1590088478143" duration="523000" />
+      <workItem from="1590089944017" duration="4349000" />
+      <workItem from="1590146980844" duration="1670000" />
+      <workItem from="1590164388726" duration="2297000" />
+      <workItem from="1590397494707" duration="668000" />
+      <workItem from="1590424733410" duration="2854000" />
     </task>
     <servers />
   </component>
@@ -164,25 +189,33 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1590088527007">
+    <state x="331" y="20" key="CommitChangelistDialog2" timestamp="1590088749907">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590088527007" />
-    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1590088527007">
+    <state x="331" y="20" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1590088749907" />
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom" timestamp="1590154224127">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590088527007" />
-    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1590088527007">
+    <state width="1493" height="260" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590154224127" />
+    <state width="1493" height="260" key="GridCell.Tab.0.center" timestamp="1590154224127">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590088527007" />
-    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1590088527007">
+    <state width="1493" height="260" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590154224127" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left" timestamp="1590154224127">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590088527007" />
+    <state width="1493" height="260" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590154224127" />
+    <state width="1493" height="260" key="GridCell.Tab.0.right" timestamp="1590154224127">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590154224127" />
     <state x="249" y="7" key="SettingsEditor" timestamp="1590088545313">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1590088545313" />
+    <state width="650" height="262" key="javadoc.popup.new" timestamp="1590426585257">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="650" height="262" key="javadoc.popup.new/0.0.1536.864@0.0.1536.864" timestamp="1590426585257" />
   </component>
 </project>
